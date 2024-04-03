@@ -5,22 +5,22 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2024-04-03T06:52:34.312Z",
-    "end": "2024-04-03T06:52:34.548Z",
-    "duration": 236
+    "start": "2024-04-03T06:56:25.258Z",
+    "end": "2024-04-03T06:56:25.499Z",
+    "duration": 241
   },
   "tests": [
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,14 +87,14 @@
     {
       "title": "is defined",
       "fullTitle": "index.js currentUser is defined",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "contains \"Welcome to Flatbook, \"",
       "fullTitle": "index.js welcomeMessage contains \"Welcome to Flatbook, \"",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
